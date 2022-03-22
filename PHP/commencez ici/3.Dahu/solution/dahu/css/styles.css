@@ -1,0 +1,22 @@
+img 
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+figure
+{
+    text-align: center;
+	font-style: italic;
+}
+
+table
+{
+	width: 100%;
+}
+
+#classique
+{
+	background-color:red;
+}

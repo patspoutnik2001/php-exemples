@@ -1,0 +1,4 @@
+Jean:Nemarre:12 rue des nuls,1950 Kraainem:02/123.33.45
+Albert:Deux:1 avenue du Roi,1000 Bruxelles:02/111.11.11
+Nicolas:Sticot:143 chaussée de Mai, 1234 Labas:02/536.76.23
+Pierre:Quiroule:6 avenue de la montagne, 9988 EnHaut:02/998.45.66

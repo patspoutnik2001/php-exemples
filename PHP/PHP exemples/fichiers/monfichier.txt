@@ -1,0 +1,7 @@
+Bonjouré IG1eé ,
+voici la lecture                  d'un fichier texte
+sur plusieurs lignes,<br />
+héhé
+
+haha. ! <b>En gras c'est OK ?</b>
+top cool

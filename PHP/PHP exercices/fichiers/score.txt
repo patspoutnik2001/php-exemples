@@ -1,0 +1,6 @@
+DUPONT;1320
+albert;45
+DUPONT;98
+top;94
+bob;654
+albert;45

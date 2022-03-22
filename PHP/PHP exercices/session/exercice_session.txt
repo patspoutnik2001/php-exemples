@@ -1,0 +1,5 @@
+- une page login.php (qui affiche un formalaire d'auth et qui vérifie le login/pwd)
+- une page bienvenue.php (qui ne peut s'afficher que si on est authentifié)
+	avec un bouton de déconnexion
+- une page acces.php qui affiche le niveau d'accès de l'utilisateur connecté
+- proposer une case à cocher pour se souvenir de nous (cookie) pour ne plus devoir s'authentifier
